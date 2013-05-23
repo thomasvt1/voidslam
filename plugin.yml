@@ -1,0 +1,10 @@
+name: VoidSlam
+main: me.thomasvt.voidslam.VoidSlam
+version: 1
+author: thomasvt
+
+commands:
+   voidslam:
+      description: Voidslam command
+      aliases: [vs]
+      default: allow
